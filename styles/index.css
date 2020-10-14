@@ -1,0 +1,8 @@
+.app-name-link img {
+	height: 100px;
+	width: 100px;
+}
+
+img[alt='Rightbars'] {
+	float: right;
+}
